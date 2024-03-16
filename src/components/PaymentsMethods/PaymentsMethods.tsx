@@ -7,6 +7,8 @@ import BackgroundRadialRight from '../BackgroundRadialRight/BackgroundRadialRigh
 import { dataPaymentMethods } from './PaymentMethods.data';
 import Image from 'next/image';
 
+import CtaDark from '../CtaDark/CtaDark';
+
 export function PaymentsMethods() {
     return (
         <div className="relative py-20 md:py-64" id='services'>
@@ -37,6 +39,8 @@ export function PaymentsMethods() {
                     </div>
                 </Swiper>
             </div>
+
+            <CtaDark />
         </div>
     )
 }
