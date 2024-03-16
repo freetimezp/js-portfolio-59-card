@@ -1,44 +1,49 @@
-import { RiFacebookCircleFill, RiInstagramLine, RiLinkedinBoxFill, RiTwitterXFill } from "react-icons/ri";
+import {
+  RiFacebookCircleFill,
+  RiInstagramLine,
+  RiLinkedinBoxFill,
+  RiTwitterXFill
+} from "react-icons/ri";
 
 export const footerData = [
   {
     id: 1,
-    title: "Links útiles",
+    title: "Useful links",
     links: [
       {
         id: 1,
-        name: "Contenido",
+        name: "Content",
         link: "#",
       },
       {
         id: 2,
-        name: "Como trabajamos",
+        name: "How we work",
         link: "#",
       },
       {
         id: 3,
-        name: "Crear",
+        name: "Create",
         link: "#",
       },
       {
         id: 4,
-        name: "Explorar",
+        name: "Explore",
         link: "#",
       },
       {
         id: 5,
-        name: "Términos y condiciones",
+        name: "Terms and Conditions",
         link: "#",
       },
     ],
   },
   {
     id: 2,
-    title: "Comunidad",
+    title: "Community",
     links: [
       {
         id: 1,
-        name: "Centro de ayuda",
+        name: "Help Center",
         link: "#",
       },
       {
@@ -48,7 +53,7 @@ export const footerData = [
       },
       {
         id: 3,
-        name: "Sugerencias",
+        name: "Suggestions",
         link: "#",
       },
       {
@@ -69,12 +74,12 @@ export const footerData = [
     links: [
       {
         id: 1,
-        name: "Nuestro partner",
+        name: "Our partner",
         link: "#",
       },
       {
         id: 2,
-        name: "Hazte partner",
+        name: "Become a partner",
         link: "#",
       },
     ],

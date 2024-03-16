@@ -6,6 +6,7 @@ import ChooseYourCards from "@/components/ChooseYourCards/ChooseYourCards";
 import ControlBilling from "@/components/ControlBilling/ControlBilling";
 import Testimonials from "@/components/Testimonials/Testimonials";
 import { PaymentsMethods } from "@/components/PaymentsMethods";
+import { Footer } from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <ControlBilling />
       <Testimonials />
       <PaymentsMethods />
+      <Footer />
     </>
   )
 }
