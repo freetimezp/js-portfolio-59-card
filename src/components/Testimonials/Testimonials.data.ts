@@ -1,0 +1,58 @@
+export const dataTestimonials = [
+    {
+        id: 1,
+        name: 'Rayan Recio',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile1.png',
+    },
+    {
+        id: 2,
+        name: 'Laura Fiera',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile2.png',
+    },
+    {
+        id: 3,
+        name: 'Lucas Morro',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile3.png',
+    },
+    {
+        id: 4,
+        name: 'Vincente Devi',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile4.png',
+    },
+    {
+        id: 5,
+        name: 'Rayan Recio',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile1.png',
+    },
+    {
+        id: 6,
+        name: 'Laura Fiera',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile2.png',
+    },
+    {
+        id: 7,
+        name: 'Lucas Morro',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile3.png',
+    },
+    {
+        id: 8,
+        name: 'Vincente Devi',
+        work: "Founder",
+        testimonial: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+        image: '/assets/profile4.png',
+    },
+]

@@ -4,6 +4,7 @@ import CounterData from "@/components/CounterData/CounterData";
 import { BestBusiness } from "@/components/BestBusiness";
 import ChooseYourCards from "@/components/ChooseYourCards/ChooseYourCards";
 import ControlBilling from "@/components/ControlBilling/ControlBilling";
+import Testimonials from "@/components/Testimonials/Testimonials";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <BestBusiness />
       <ChooseYourCards />
       <ControlBilling />
+      <Testimonials />
     </>
   )
 }
