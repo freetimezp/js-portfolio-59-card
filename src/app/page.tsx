@@ -1,6 +1,7 @@
 import { Header } from "@/components/Header";
 import FirstBlock from "@/components/FirstBlock/FirstBlock";
 import CounterData from "@/components/CounterData/CounterData";
+import { BestBusiness } from "@/components/BestBusiness";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <FirstBlock />
       <CounterData />
+      <BestBusiness />
     </>
   )
 }

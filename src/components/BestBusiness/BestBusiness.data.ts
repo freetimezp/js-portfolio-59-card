@@ -4,22 +4,22 @@ export const dataFeaturesBusiness: BestBusinessData = [
   {
     id: 1,
     icon: "rewards",
-    title: "Recompensas",
+    title: "Rewards",
     description:
-      "Las mejores tarjetas de crédito ofrecen algunas combinaciones tentadoras de promociones y premios.",
+      "The best credit cards offer some tempting combinations of promotions and rewards.",
   },
   {
     id: 2,
     icon: "safe",
-    title: "100% Seguro",
+    title: "100% Secure",
     description:
-      "Tomamos medidas proactivas para asegurarnos de que su información  y sus transacciones estén seguras.",
+      "We take proactive measures to ensure that your information and transactions are secure.",
   },
   {
     id: 3,
     icon: "send",
-    title: "Envíos gratis",
+    title: "Free shipping",
     description:
-      "Una tarjeta de crédito con transferencia de saldo puede ahorrarle mucho dinero en intereses.",
+      "A balance transfer credit card can save you a lot of money on interest.",
   },
 ];
